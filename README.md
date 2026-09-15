@@ -18,7 +18,7 @@
 - 🧪 Small practice projects (calculators, games, whatever I can build)
 - 🌱 Getting comfortable with Git and GitHub
 <p align="left">
-  <img src="Assets/XwfuBcAl.gif" width="300">
+  <img src="Assets/FZltmXlI6LYTR9VFuEMa.gif" width="300">
 </p>
 ---
 
