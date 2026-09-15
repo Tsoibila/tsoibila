@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi, I'm Tsoibila!!
 
-<!--
-**Tsoibila/tsoibila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+14 y/o student learning stuff.
 
-Here are some ideas to get you started:
+- 🔭 Currently trying to learn: **Python**
+- 🚀 Interested in: **Technology, Analog photography, Space, Anime, Tanks**
+- 🎯 Goal for this year: **finish my first real project**
+- 🇬🇷 Nationality: **Greek**
+- 🎮 Favourite character: **Yukari Akiyama from Girls und Panzer**
+- 🎵 Favourite musician: **Viktor Tsoi (Kino)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### What I'm working on
+- 📚 Following tutorials and taking notes as I learn
+- 🧪 Small practice projects (calculators, games, whatever I can build)
+- 🌱 Getting comfortable with Git and GitHub
+
+---
+
+### Find me
+- 📧 tsoibila@proton.me
+
+*This profile is a work in progress — I'm just getting started.*
