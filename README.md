@@ -17,7 +17,9 @@
 - 📚 Following tutorials and taking notes as I learn
 - 🧪 Small practice projects (calculators, games, whatever I can build)
 - 🌱 Getting comfortable with Git and GitHub
-
+<p align="left">
+  <img src="Assets/XwfuBcAl.gif width="300">
+</p>
 ---
 
 ### Find me
