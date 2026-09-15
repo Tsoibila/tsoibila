@@ -8,7 +8,7 @@
 - 🇬🇷 Nationality: **Greek**
 - 🎮 Favourite character: **Yukari Akiyama from Girls und Panzer**
 - 🎵 Favourite musician: **Viktor Tsoi (Kino)**
-
+! [Yukari](Assets/7mJTVZ9oLuCBgSy.gif)
 ---
 
 ### What I'm working on
