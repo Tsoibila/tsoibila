@@ -25,4 +25,4 @@
 ### Find me
 - 📧 tsoibila@proton.me
 
-*This profile is a work in progress — I'm just getting started.*
+*WIP,im walkin here!"
