@@ -1,6 +1,6 @@
 ## Hi, I'm Tsoibila!!
 
-14 y/o student learning stuff.
+I like learning stuff
 
 - 🔭 Currently trying to learn: **Python**
 - 🚀 Interested in: **Technology, Analog photography, Space, Anime, Tanks**
