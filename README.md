@@ -5,7 +5,6 @@
 - 🔭 Currently trying to learn: **Python**
 - 🚀 Interested in: **Technology, Analog photography, Space, Anime, Tanks**
 - 🎯 Goal for this year: **finish my first real project**
-- 🇬🇷 Nationality: **Greek**
 - 🎮 Favourite character: **Yukari Akiyama from Girls und Panzer**
 - 🎵 Favourite musician: **Viktor Tsoi (Kino)**
 <p align="left">
