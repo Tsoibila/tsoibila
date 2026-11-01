@@ -5,10 +5,10 @@ I like learning stuff
 - 🔭 Currently trying to learn: **Python**
 - 🚀 Interested in: **Technology, Analog photography, Space, Anime, Tanks**
 - 🎯 Goal for this year: **finish my first real project**
-- 🎮 Favourite character: **Yukari Akiyama from Girls und Panzer**
+- 🎮 Favourite character: **Anchovy from Girls und Panzer**
 - 🎵 Favourite musician: **Viktor Tsoi (Kino)**
 <p align="left">
-  <img src="Assets/7mJTVZ9oLuCBgSy.gif" width="300">
+  <img src="Assets/Anchover.gif" width="300">
 </p>
 ---
 
