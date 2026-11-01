@@ -8,7 +8,7 @@ I like learning stuff
 - 🎮 Favourite character: **Anchovy from Girls und Panzer**
 - 🎵 Favourite musician: **Viktor Tsoi (Kino)**
 <p align="left">
-  <img src="Assets/Anchover.gif" width="300">
+  <img src="Assets/anchover.gif" width="300">
 </p>
 ---
 
